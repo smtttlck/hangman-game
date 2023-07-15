@@ -1,0 +1,25 @@
+body {
+    background-color: #aa59e9;
+}
+
+.container {
+    width: 50%;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border: 5px #7229aa solid;
+    margin-top: 1rem;
+    padding: 1rem 3rem;
+}
+
+.char {
+    margin: 0.75rem 0.5rem;
+    font-size: 30px;
+}
+
+.wordContainer {
+    width: 100%;
+    font-size: 50px;
+}
